@@ -2799,7 +2799,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **V**
-
+  - [Vaibhav Pal](https://github.com/vaibhavpal7549)  
   - [Vaibhav Lakhera](https://github.com/vaibhav-init)
   - [Vaibhav Malhotra](https://github.com/vaibhavmalhotra002)
   - [Vaibhav Sharma](https://github.com/AlphaVS-76)
